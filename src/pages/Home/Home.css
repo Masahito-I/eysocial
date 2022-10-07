@@ -1,0 +1,16 @@
+.Home {
+  text-align: center;
+  background-color: #282c34;
+  padding-bottom: 2em;
+}
+p {
+  color: white;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  
+}
+
+.Home-link {
+  color: #61dafb;
+}
