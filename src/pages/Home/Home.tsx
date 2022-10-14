@@ -9,22 +9,22 @@ const Home: FC = () => {
       <Navbar />
       <div className="Home">
         <Grid container spacing={2} sx={{color: 'text.primary'}}>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
-          <Grid item xs={4} md={8}>
+          <Grid item xs={4}>
             <p>xs=6 md=8</p>
           </Grid>
         </Grid>
